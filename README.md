@@ -1,12 +1,13 @@
 Hello! If you've stumbled upon this repository, you're probably lost... In any case, welcome!
 
-This is a catch-all bucket of random coding stuff I choose to upload from my local machine. Mostly Python.
+I wanted to try out Jupyter notebooks, and figured I'd dip my toe in the LLM pool. I'm working my way through Andrej Karpathy's (truly excellent) YouTube series, [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
-I guess I'll leave descriptions here as I upload things? Not sure how this is supposed to work.
+I'll might upload more notebooks here from my local machine as I create them? We'll see. 
+
+If you're interested in learning more about neural networks, I highly recommend checking out Andrej's YouTube channel, where he breaks things down to a very, very consumable level (even for a product dude like myself). 
 
 *************************
 **rx_drug_name_generator**
 - Jupyter noteboook, requires PyTorch
 - A very meek neural network capable of generating single words, implemented here to generate some new prescription drug names
 - Uses the FDA Orangebook as a training data set, found here: https://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-data-files
-- Follows steps outlined in Andrej Karpathy's (truly excellent) YouTube series, Neural Networks: Zero to Hero: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
